@@ -1,3 +1,5 @@
+<img src="https://github.com/SergioGordillo/LoginAppAngular/blob/main/login-app.png" alt="Login App"/>
+
 # Can I try this web app? :open_mouth:
 
 Yes. You can try it at https://login-app-angular-express.herokuapp.com/auth/login.
