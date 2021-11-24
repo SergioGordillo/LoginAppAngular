@@ -5,11 +5,7 @@
 
 <h4>Your info: </h4>
 
-<ul>
-    <li> Name: name </li> 
-    <li> Email: email</li>
-    <li> Password: password</li>
-</ul>
+<pre>{{user | json}}</pre>
 
 <button (click)="logout()">
     Logout
