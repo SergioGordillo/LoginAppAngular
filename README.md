@@ -1,3 +1,31 @@
+# Can I try this web app? :open_mouth:
+
+Yes. You can try it at https://login-app-angular-express.herokuapp.com/auth/login.
+
+# What can you do with this web app? :thinking:
+
+You can: <br>
+
+:fountain_pen: Register in the app. <br>
+:computer_mouse: Log in as a registered user in the app. <br>
+:end: Log out. <br>
+
+# Which technologies did I use to develop this app? :thinking:
+
+It is a web app made with Angular 13 + TypeScript + Sweet Alert 2. The styles were given as a template in Fernando Herrera's Angular course. <br>
+I used Angular-CLI to create my Angular App. <br>
+
+# Which is the purpose of this web app? :thinking:
+
+It is a web app I made based on Fernando Herrera's Angular course 🧐. I havent made barely changes compared to the project that Fernando Herrera made on the course, but just because I want to learn and adquire the Angular knowledge 🤓. The styles were provided by Fernando, to use them as a template. I learnt with this project about:
+
+❤️ Good practices about making reusable components in Angular. <br>
+❤️ Good practices about Angular folder structure. <br>
+:warning: Working with Sweet Alert 2 (https://sweetalert2.github.io/), to show beautiful error messages to the user. <br>
+:no_entry: How to use guards in Angular. <br>
+:infinity: How to integrate my Angular frontend with my backend developed with Express.js (Node.js). You can check the backend part of this app out here: https://github.com/SergioGordillo/LoginAppNodeExpressBackend<br>
+:blue_heart: TypeScript. <br>
+
 # LoginAppAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
