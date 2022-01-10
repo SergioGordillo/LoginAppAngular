@@ -2,7 +2,7 @@
 
 # Can I try this web app? :open_mouth:
 
-Yes. You can try it at https://login-app-angular-express.herokuapp.com/auth/login.
+ ⚠️ The web deployment is no longer available since the Mongo DB database of this web app no longer exists. You can download the project in your PC, creating a cluster in MongoDB and making the app running.
 
 # What can you do with this web app? :thinking:
 
